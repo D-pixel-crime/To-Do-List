@@ -2,6 +2,12 @@
 
 The ToDo List is a simple web application built using HTML, CSS, and JavaScript. This application allows users to manage their tasks by creating, editing, and deleting todo items. With an intuitive interface, users can easily organize their tasks and stay productive.
 
+# Cloning
+
+```
+git clone https://github.com/D-pixel-crime/To-Do-List.git
+```
+
 ## Features
 
 - **Create Tasks**: Add new todo items to the list.
